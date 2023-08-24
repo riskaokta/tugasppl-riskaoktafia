@@ -1,0 +1,33 @@
+Salah satu metode pengujian perangkat lunak yang umum digunakan adalah "Pengujian Fungsional." Ini adalah pendekatan pengujian yang fokus pada memastikan bahwa perangkat lunak berfungsi sesuai dengan spesifikasi yang telah ditentukan. Pengujian fungsional bertujuan untuk mengidentifikasi apakah perangkat lunak melakukan tugas-tugas yang diharapkan dengan benar dan sesuai dengan kebutuhan pengguna.
+
+Berikut adalah langkah-langkah umum yang terlibat dalam metode pengujian fungsional:
+
+1. Analisis Spesifikasi: 
+Tim pengujian harus memahami dengan baik spesifikasi perangkat lunak. Ini melibatkan membaca dokumen-dokumen seperti spesifikasi fungsional, desain sistem, dan kebutuhan pengguna.
+
+2. Pembuatan Kasus Uji: 
+Berdasarkan analisis spesifikasi, tim pengujian akan membuat kasus uji. Kasus uji adalah rangkaian langkah-langkah yang menggambarkan cara berinteraksi dengan perangkat lunak untuk memverifikasi bahwa setiap fungsi berjalan dengan benar.
+
+3. Pelaksanaan Kasus Uji: 
+Dalam tahap ini, kasus uji yang telah dibuat akan dijalankan pada perangkat lunak yang sedang diuji. Ini melibatkan menjalankan berbagai skenario dan masukan untuk melihat apakah perangkat lunak berperilaku seperti yang diharapkan.
+
+4. Perekaman Hasil: 
+Tim pengujian akan mencatat hasil dari setiap kasus uji. Jika ada kesalahan atau perbedaan antara hasil yang diharapkan dan yang ditemukan, ini akan dicatat sebagai bug atau kegagalan.
+
+5. Pelaporan Bug: 
+Jika ada kesalahan atau kegagalan yang ditemukan, mereka akan dilaporkan kepada tim pengembangan. Laporan bug harus mencakup informasi tentang langkah-langkah untuk mereproduksi masalah, hasil yang diharapkan, dan hasil yang sebenarnya.
+
+6. Verifikasi dan Validasi: 
+Setelah tim pengembangan mengklaim telah memperbaiki bug yang dilaporkan, tim pengujian akan melakukan verifikasi untuk memastikan bahwa masalah tersebut benar-benar telah diperbaiki dan tidak menimbulkan efek samping pada bagian lain dari perangkat lunak.
+
+7. Regression Testing: 
+Saat perubahan dilakukan pada perangkat lunak, pengujian fungsional harus diulang untuk memastikan bahwa perubahan tersebut tidak mempengaruhi fungsi-fungsi yang sudah berjalan dengan baik sebelumnya. Ini dikenal sebagai pengujian regresi.
+
+8. Pengujian Eksploratif: 
+Selain kasus uji yang telah dibuat sebelumnya, tim pengujian juga dapat melakukan pengujian eksploratif di mana mereka secara bebas menjelajahi perangkat lunak untuk menemukan masalah yang mungkin tidak tercakup dalam kasus uji yang telah dirancang.
+
+9. Pengujian Integrasi: 
+Jika perangkat lunak terdiri dari banyak komponen atau modul, pengujian integrasi dapat dilakukan untuk memastikan bahwa komponen-komponen ini berinteraksi dengan baik dan menghasilkan perilaku yang diinginkan.
+
+10. Pengujian Penerimaan Pengguna: 
+Setelah perangkat lunak dianggap siap, pengguna akhir atau pihak yang memiliki kepentingan dapat melakukan pengujian penerimaan untuk memastikan bahwa perangkat lunak memenuhi kebutuhan dan harapan mereka.
